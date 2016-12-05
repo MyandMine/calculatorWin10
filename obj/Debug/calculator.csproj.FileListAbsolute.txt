@@ -1,0 +1,9 @@
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\bin\Debug\FileTree.exe.config
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\bin\Debug\FileTree.exe
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\bin\Debug\FileTree.pdb
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\obj\Debug\FileTree.Form1.resources
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\obj\Debug\FileTree.Properties.Resources.resources
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\obj\Debug\FileTree.exe
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\obj\Debug\FileTree.pdb
+C:\Users\linch\documents\visual studio 2015\Projects\class11\FileTree\obj\Debug\calculator.csprojResolveAssemblyReference.cache
